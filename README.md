@@ -2,12 +2,12 @@ I read this book called _Nudge_ by Richard Thaler and Cass Sunstein, and in the 
 
 I set up a similar program with my sister and this repo hosts the results. In my current job, I'm doing a lot of SQL and my coding skill a utilized a little less than I'd like. Likewise, my writing skills have been deteriorating over the past few years despite completing a master's degree. These are both skills that I want to improve upon but haven't had the right motivation to do so. The prospect of losing $100 will hopefully provide the added incentive that gets me to work.
 
-Topics:
-September 2023 - How Chips Influenced the Cold War and the War in Ukraine
-October 2023 - TBD
-November 2023 - TBD
+Topics:<br>
+September 2023 - How Chips Influenced the Cold War and the War in Ukraine<br>
+October 2023 - TBD<br>
+November 2023 - TBD<br>
 December 2023 - TBD
 
-Ideas:
-Sabermetrics - NCAA Football or MLB
+Ideas:<br>
+Sabermetrics - NCAA Football or MLB<br>
 NLP Utilizing Tennis Interviews
