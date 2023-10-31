@@ -4,7 +4,7 @@ I set up a similar program with my sister and this repo hosts the results. In my
 
 Topics:<br>
 September 2023 - How Chips Influenced the Cold War and the War in Ukraine<br>
-October 2023 - TBD<br>
+October 2023 - World Series Pitching Analysis, Unsupervised Pitch Sequencing Attempt<br>
 November 2023 - TBD<br>
 December 2023 - TBD
 
